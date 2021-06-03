@@ -2,7 +2,7 @@
 - 🌱 I’m currently a third year computer science student at the University of Waterloo
 - 👀 I’m interested in learning about new and upcoming technologies like AI, ML, RPA, and Data Science
 - 👩‍🎓 I have previous work experience at Fidelity Investments Canada as an Emerging Technologist and IT Architect
-- 💻 Some of the programming languages I use are C, C++, Java, Python and Javascript!
+- 💻 Some of the programming languages I use are C, C++, Java, Python, HTML/CSS and Javascript!
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
