@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/Platform-J2EE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/TextEditor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
 
 <!---
