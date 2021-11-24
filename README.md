@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/Platform-J2EE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
-![](https://img.shields.io/badge/Editor-Android Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
+![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/TextEditor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/TextEditor-Eclipse-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
