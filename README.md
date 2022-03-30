@@ -30,6 +30,7 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
 ![](https://img.shields.io/badge/Tools-Drupal-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
 ![](https://img.shields.io/badge/Tools-Miro-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
+![](https://img.shields.io/badge/Tools-Miro-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 
 <!---
 enakohli/enakohli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
