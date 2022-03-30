@@ -19,6 +19,9 @@
 ![](https://img.shields.io/badge/Code-AJAX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Testing-Nightwatch-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Platform-J2EE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
@@ -30,7 +33,6 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
 ![](https://img.shields.io/badge/Tools-Drupal-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
 ![](https://img.shields.io/badge/Tools-Miro-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
-![](https://img.shields.io/badge/Tools-Miro-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 
 <!---
 enakohli/enakohli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
