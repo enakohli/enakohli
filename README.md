@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ena Kohli
-- 🌱 I’m currently finishing up my third year of studying Computer Science at the University of Waterloo 
+- 🌱 I’m currently in my final year of studying Computer Science at the University of Waterloo 
 - 👀 I’m interested in learning about new and upcoming technologies like AI, ML, RPA, Data Science and Automation
-- 👩‍🎓 I have previous work experience at Fidelity Investments Canada as an Emerging Technologist and IT Architect, and as a Software Developer at the Ontario Digital Service!
+- 👩‍🎓 I have previous work experience at Fidelity Investments Canada as an Emerging Technologist and IT Architect, as a Software Developer at the Ontario Digital Service, and as a Software Engineer for VTS!
 - 💻 Some of the programming languages I regularly use are C, C++, Java, Python, HTML/CSS and Javascript!
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
