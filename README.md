@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ena Kohli
-- 🌱 I’m currently in my final year of studying Computer Science at the University of Waterloo 
+- 🌱 I graduated from the University of Waterloo with a degree in Computer Science
 - 👀 I’m interested in coding and learning about new and upcoming technologies like AI, ML, RPA, Data Science and Automation
 - 👩‍🎓 I have previous work experience at Fidelity Investments Canada as an Emerging Technologist and IT Architect, as a Software Developer at the Ontario Digital Service, and as a Software Engineer for VTS, Wonolo, and OPENLANE!
+- 👩‍💻 I am currently working for DoctorCare as a Software Engineer!
 - 💻 Some of the programming languages I regularly use are C, C++, Java, Python, Ruby on Rails, HTML/CSS, JavaScript, and TypeScript!
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
